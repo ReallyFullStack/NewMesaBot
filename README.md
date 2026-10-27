@@ -1,17 +1,16 @@
-# Imperial Bot
+# New Mesa Bot
 
-This bot was meant to be used on the Discord server of Mesa on the [Insert Name SMP](https://insmp.miraheze.org/wiki/INSMP).
-However, it won't but I continue making it personally. For people from Mesa, don't consider any of the information in this repo binding,
-it's just for my personal, individual and independent larp, not an actual stance on New Mesa or an act of secession or whatever.
-It is used to display laws, send fancy messages, display the constitution, register and manage companies, announce new laws in the gazette, ...
+This is a fork of https://github.com/ReallyFullStack/MesanImperialBot, a bot of mines made initially for Mesa
+but I made it too entrenched in an alternate scenario that won't happen. The main logic will be primarily
+updated there, this repo is mainly a reskin of it.
 
 ## Get Started
 
 First, you'll need to clone the repository and install the dependencies:
 
 ```sh
-git clone https://github.com/ReallyFullStack/MesanImperialBot
-cd MesanImperialBot
+git clone https://github.com/ReallyFullStack/NewMesaBot
+cd NewMesaBot
 npm install
 ```
 
